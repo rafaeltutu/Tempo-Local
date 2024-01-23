@@ -1,17 +1,12 @@
 # tempo
 
-Previsao do tempo
+Tempo do Local atual
 
-## Getting Started
+app desenvolvido em flutter com Bloc, usando as biblioteca
+  geolocator:
+  weather:
+  intl:
+  flutter_bloc:
+  equatable:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Tempo-Local
+![Screenshot_1706041143](https://github.com/rafaeltutu/Tempo-Local/assets/62215859/4b0a7fee-f1a7-4232-933e-eec2d80fe984)
